@@ -1,0 +1,24 @@
+{
+  "type": "library",
+  "name": "com.jakebarnby.ucore-ui",
+  "version": "1.0.0",
+  "displayName": "UCore UI",
+  "description": "UCore UI Tools",
+  "unity": "2019.4",
+  "dependencies": {
+    "com.unity.textmeshpro": "2.1.3"
+  },
+  "keywords": [
+    "ucore",
+    "ui"
+  ],
+  "author": {
+    "name": "Jake Barnby",
+    "email": "jakeb994@gmail.com",
+    "url": "https://github.com/abnegate"
+  },
+  "git": {
+    "url": "https://github.com/abnegate/ucore-ui",
+    "tag": "1.0.0"
+  }
+}
